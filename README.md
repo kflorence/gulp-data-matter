@@ -1,7 +1,7 @@
 # gulp-data-matter
 
-Extracts front-matter from files using [https://github.com/jonschlinkert/gray-matter](gray-matter)
-and stores it in `file.data` via [https://github.com/colynb/gulp-data](gulp-data).
+Extracts front-matter from files using [gray-matter](https://github.com/jonschlinkert/gray-matter)
+and stores it in `file.data` via [gulp-data](https://github.com/colynb/gulp-data).
 
 ## Example
 
