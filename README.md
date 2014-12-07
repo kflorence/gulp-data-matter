@@ -10,7 +10,7 @@ var gulp = require("gulp");
 var hb = require("gulp-hb");
 var dataMatter = require("gulp-data-matter");
 
-gulp.task("front-matter", function() {
+gulp.task("handlebars", function() {
   return gulp.src("src/**/*.hbs")
     .pipe(dataMatter())
     .pipe(hb())
