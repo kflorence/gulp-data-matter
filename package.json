@@ -1,0 +1,33 @@
+{
+  "name": "gulp-data-matter",
+  "version": "0.1.0",
+  "description": "Extracts front-matter from files and stores it in file.data",
+  "main": "index.js",
+  "dependencies": {
+    "gray-matter": "^1.0.1",
+    "gulp-data": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kflorence/gulp-data-matter.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "front-matter",
+    "gulp-data",
+    "data",
+    "file",
+    "parse",
+    "extract"
+  ],
+  "author": "Kyle Florence <kyle.florence@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kflorence/gulp-data-matter/issues"
+  },
+  "homepage": "https://github.com/kflorence/gulp-data-matter"
+}
