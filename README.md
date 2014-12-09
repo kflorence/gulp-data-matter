@@ -3,6 +3,10 @@
 Extracts front-matter from files using [gray-matter](https://github.com/jonschlinkert/gray-matter)
 and stores it in `file.data` via [gulp-data](https://github.com/colynb/gulp-data).
 
+## Install
+
+`npm install gulp-data-matter --save-dev`
+
 ## Example
 
 ```javascript
